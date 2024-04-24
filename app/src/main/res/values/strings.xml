@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TestFoodiesApp</string>
+    <string name="filter">Фильтр</string>
+    <string name="logo" translatable="false">Logo</string>
+    <string name="search">Поиск</string>
+    <string name="default_type" translatable="false">Default</string>
+    <string name="newest">Новинка</string>
+    <string name="spicy">Острое</string>
+    <string name="vegetarian">Веганское</string>
+    <string name="hit">Хит</string>
+    <string name="express">Експресс</string>
+    <string name="find_a_dish">Найти блюдо</string>
+    <string name="ready">Готово</string>
+    <string name="weight">Вес</string>
+    <string name="energy_value">Энерг. ценность</string>
+    <string name="kcal">ккал</string>
+    <string name="grams">г</string>
+    <string name="proteins">Белки</string>
+    <string name="fats">Жиры</string>
+    <string name="carbohydrates">Углеводы</string>
+    <string name="add_to_cart">В корзину за</string>
+    <string name="cart">Корзина</string>
+    <string name="order_for">Заказать за</string>
+    <string name="found_nothing">Ничего не нашлось :(</string>
+    <string name="there_are_no_such_dishes_try_changing_filters">Таких блюд нет :( Попробуйте изменить фильтры</string>
+    <string name="empty_select_a_dish_from_the_catalogue">Пусто, выберите блюда в каталоге :)</string>
+    <string name="select_dishes">Подобрать блюда</string>
+</resources>
